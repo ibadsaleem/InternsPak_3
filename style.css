@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.container-fluid{
+    
+    
+}
+.Home{
+   
+    background-color: lightblue;
+    height: 450px;
+    padding: 10px 10px;
+}
+.text{
+    font-size: 12px;
+    text-align: justify;
+    opacity: 0.8;
+}
+.personhome{
+    width: 100px;
+    height: 200px;
+    display: inline;
+    position: relative;
+    bottom: 190px;
+    left: 230px;
+}
+.heading1{
+    margin-bottom: 30px;
+}
+.btn1{
+    text-align: center;
+    width: 270px;
+    height: 40px;
+    position: relative;
+    bottom: 190px;
+    left:40px ;
+    margin: 10px auto;
+    border-radius: 5px;
+
+}
+.Home-Info{
+    padding: 10px 10px;
+}
